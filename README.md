@@ -1,96 +1,150 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=200&section=header&text=Davron%20Tukhtamuratov&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Davron%20Tukhtamuratov&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Engineer%20%E2%80%94%20React%20%C2%B7%20TypeScript%20%C2%B7%20JavaScript&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=React+%7C+TypeScript+%7C+JavaScript;Building+clean+%26+scalable+UIs;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://github.com/davroneeboy">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+designs+into+pixel-perfect+interfaces;React+%7C+TypeScript+%7C+REST+APIs+%7C+Python;Writing+code+that+scales+%E2%80%94+not+just+works;Open+to+challenging+frontend+opportunities" alt="Typing SVG"/>
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/davron-tukhtamuratov-18a8a5367/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/dtnimt">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:davron.tukhtamuratov.1808@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=davroneeboy&color=7C3AED&style=flat-square&label=profile+views"/>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Who am I
 
-```ts
-const davron = {
-  name:      "Davron Tukhtamuratov",
-  role:      "Frontend Developer",
-  stack:     ["React", "TypeScript", "JavaScript", "Next.js"],
-  tools:     ["Vite", "Tailwind CSS", "Redux Toolkit", "Git"],
-  also:      ["Python", "Telegram Bots", "REST APIs"],
-  currently: "Building production UIs @ jitsu-front & kpi-front",
-};
+```typescript
+class FrontendEngineer {
+  readonly name    = "Davron Tukhtamuratov";
+  readonly role    = "Frontend Engineer";
+  readonly located = "Uzbekistan";
+
+  readonly expertise = {
+    core:    ["React", "TypeScript", "JavaScript ES2024"],
+    ui:      ["Tailwind CSS", "shadcn/ui", "Framer Motion"],
+    state:   ["Redux Toolkit", "Zustand", "React Query"],
+    tooling: ["Vite", "Git", "REST APIs", "Figma → Code"],
+    extra:   ["Python", "Telegram Bots", "Java (basics)"],
+  };
+
+  readonly currentFocus = [
+    "Building scalable SPAs with clean architecture",
+    "Writing type-safe code from day one",
+    "Bridging the gap between design and engineering",
+  ];
+
+  greet(): string {
+    return "Let's build something great together.";
+  }
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Radar
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub"/>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST API"/>
+      <br>REST API
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/>
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"/>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Selected Work
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### State & Data
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-### Backend & Bots
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+| &nbsp; | Project | What it does | Stack |
+|:---:|---------|--------------|-------|
+| 🏢 | [**jitsu-front**](https://github.com/davroneeboy/jitsu-front) | Production-grade enterprise frontend | TypeScript · React |
+| 📊 | [**kpi-front**](https://github.com/davroneeboy/kpi-front) | KPI metrics & analytics dashboard | TypeScript · React |
+| 🌾 | [**AgroNews**](https://github.com/davroneeboy/AgroNews) | Agricultural news aggregation platform | TypeScript · React |
+| 💰 | [**LoanTracker**](https://github.com/davroneeboy/LoanTracker) | Loan lifecycle management tool | TypeScript · React |
+| ✅ | [**Task-Management-App**](https://github.com/davroneeboy/Task-Management-App) | Drag-and-drop task board | TypeScript · React |
+| 🌦 | [**Weather-react**](https://github.com/davroneeboy/Weather-react) | Real-time weather with geolocation | TypeScript · React |
+| 🤖 | [**agrosanoat-antikor-bot**](https://github.com/davroneeboy/agrosanoat-antikor-bot) | Anti-corruption Telegram bot | Python · aiogram |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**jitsu-front**](https://github.com/davroneeboy/jitsu-front) | TypeScript, React | Production frontend app |
-| [**kpi-front**](https://github.com/davroneeboy/kpi-front) | TypeScript, React | KPI dashboard interface |
-| [**AgroNews**](https://github.com/davroneeboy/AgroNews) | TypeScript, React | Agricultural news platform |
-| [**LoanTracker**](https://github.com/davroneeboy/LoanTracker) | TypeScript, React | Loan management application |
-| [**Task-Management-App**](https://github.com/davroneeboy/Task-Management-App) | TypeScript, React | Task tracking & productivity tool |
-| [**Weather-react**](https://github.com/davroneeboy/Weather-react) | TypeScript, React | Weather forecast app |
-| [**agrosanoat-antikor-bot**](https://github.com/davroneeboy/agrosanoat-antikor-bot) | Python | Telegram bot for Agrosanoat |
-
----
-
-## 📬 Contact
+## 📈 Contribution Activity
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-davroneeboy-181717?style=for-the-badge&logo=github)](https://github.com/davroneeboy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davron_Tukhtamuratov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davron-tukhtamuratov-18a8a5367/)
-[![Telegram](https://img.shields.io/badge/Telegram-@dtnimt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtnimt)
-[![Email](https://img.shields.io/badge/Email-davron.tukhtamuratov.1808%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davron.tukhtamuratov.1808@gmail.com)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davroneeboy&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7F7&height=100&section=footer" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=davroneeboy&color=3B82F6&style=flat-square)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
 </div>
