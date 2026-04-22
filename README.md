@@ -60,21 +60,6 @@ const davron = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=davroneeboy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davroneeboy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=davroneeboy&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Stack | Description |
@@ -94,6 +79,8 @@ const davron = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-davroneeboy-181717?style=for-the-badge&logo=github)](https://github.com/davroneeboy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davron_Tukhtamuratov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davron-tukhtamuratov-18a8a5367/)
+[![Telegram](https://img.shields.io/badge/Telegram-@dtnimt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtnimt)
 [![Email](https://img.shields.io/badge/Email-davron.tukhtamuratov.1808%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davron.tukhtamuratov.1808@gmail.com)
 
 </div>
