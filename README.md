@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a1400,60:2a1f00,100:0a0a0f&height=200&section=header&text=Davron%20Tukhtamuratov&fontSize=44&fontColor=c8a96e&fontAlignY=42&desc=Frontend%20Engineer%20%E2%80%94%20React%20%C2%B7%20TypeScript%20%C2%B7%20JavaScript&descSize=17&descAlignY=62&animation=fadeIn" width="100%"/>
 </div>
 
@@ -40,18 +40,18 @@
 const davron = {
   name    : "Davron Tukhtamuratov",
   role    : "Frontend Engineer",
-  located : "Uzbekistan рџ‡єрџ‡ї",
+  located : "Uzbekistan",
 
   stack: {
     core  : ["React", "TypeScript", "JavaScript"],
     ui    : ["Tailwind CSS", "shadcn/ui", "Framer Motion"],
     state : ["Redux Toolkit", "Zustand", "React Query"],
-    tools : ["Vite", "Git", "REST APIs", "Figma в†’ Code"],
+    tools : ["Vite", "Git", "REST APIs", "Figma -> Code"],
     extra : ["Python", "Telegram Bots"],
   },
 
-  focus: "Bridging the gap between design & engineering",
-  open_to: "Challenging frontend opportunities",
+  focus   : "Bridging the gap between design & engineering",
+  open_to : "Challenging frontend opportunities",
 } as const;
 ```
 
@@ -59,7 +59,7 @@ const davron = {
 
 ---
 
-## вљ™ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -78,7 +78,7 @@ const davron = {
 
 ---
 
-## рџ—‚ Selected Work
+## Selected Work
 
 <div align="center">
 
@@ -96,7 +96,7 @@ const davron = {
 
 ---
 
-## рџ“Љ GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davroneeboy&show_icons=true&theme=transparent&title_color=c8a96e&text_color=ede8e0&icon_color=c8a96e&border_color=2a1f00&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
